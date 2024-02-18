@@ -1,0 +1,30 @@
+/* write your css here */
+.App {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .refresh {
+    text-align: center;
+  }
+  
+  .btn-white {
+    background-color: #fff;
+    color: #333;
+    padding: 10px 20px;
+    border: 1px solid #333;
+    cursor: pointer;
+  }
+  
+  .chatbot-toggle-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
